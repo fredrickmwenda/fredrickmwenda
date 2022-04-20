@@ -36,7 +36,7 @@
 [![Twitter: Basamiy](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/BaSamiy)
 [![Linkedin: fredricl Mwenda(https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredrick-mwenda-49b8bb161/)](https://www.linkedin.com/in/fredrick-mwenda-49b8bb161/)
 [![GitHub Fredrickmwenda](https://img.shields.io/github/followers/fredrickmwenda?label=follow&style=social)](https://github.com/fredrickmwenda)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://unruffled-franklin-da2a67.netlify.app/)
+[![website]()](https://unruffled-franklin-da2a67.netlify.app/)
 
 
 **Languages and Tools:**  
