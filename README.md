@@ -33,8 +33,8 @@
 - 📫 How to reach me: [Twitter - @Basamiy](https://twitter.com/BaSamiy) , [Youtube - @progressivedeveloper](https://youtube.com/progressivedeveloper)
 - ⚡ Fun fact: I have always dreamed working for google.
 
-[![Twitter: Basamiy](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/BaSamiy)
-[![Linkedin: fredricl Mwenda(https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredrick-mwenda-49b8bb161/)](https://www.linkedin.com/in/fredrick-mwenda-49b8bb161/)
+[![Twitter: Basamiy](https://img.shields.io/twitter/follow/fredrickmwenda?style=social)](https://twitter.com/BaSamiy)
+[![Linkedin: fredricl Mwenda(https://img.shields.io/badge/-fredrickmwenda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredrick-mwenda-49b8bb161/)](https://www.linkedin.com/in/fredrick-mwenda-49b8bb161/)
 [![GitHub Fredrickmwenda](https://img.shields.io/github/followers/fredrickmwenda?label=follow&style=social)](https://github.com/fredrickmwenda)
 [![website]()](https://unruffled-franklin-da2a67.netlify.app/)
 
