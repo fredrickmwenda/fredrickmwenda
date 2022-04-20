@@ -63,6 +63,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### The best development centre.
 
 </div>
