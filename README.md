@@ -33,15 +33,6 @@
 - 📫 How to reach me: [Twitter - @Basamiy](https://twitter.com/BaSamiy) , [Youtube - @progressivedeveloper](https://youtube.com/progressivedeveloper)
 - ⚡ Fun fact: I have always dreamed working for google.
 
-[![Twitter: Basamiy](https://img.shields.io/twitter/follow/fredrickmwenda?style=social)](https://twitter.com/BaSamiy)
-[![Linkedin: fredricl Mwenda(https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredrick-mwenda-49b8bb161/)
-[![GitHub Fredrickmwenda](https://img.shields.io/github/followers/fredrickmwenda?label=follow&style=social)](https://github.com/fredrickmwenda)
-[![website]()](https://unruffled-franklin-da2a67.netlify.app/)
-
-
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 
 
 **Languages and Tools:**  
