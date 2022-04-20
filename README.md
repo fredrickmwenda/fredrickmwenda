@@ -1,6 +1,6 @@
 ## Hello, I'm [Fredrick Mwenda!](https://unruffled-franklin-da2a67.netlify.app) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="mwenda" /> </p>
 
 <a href="https://twitter.com/BaSamiy">
   <img align="left" alt="Mwenda's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -34,7 +34,7 @@
 - ⚡ Fun fact: I have always dreamed working for google.
 
 [![Twitter: Basamiy](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/BaSamiy)
-[![Linkedin: fredricl Mwenda(https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredrick-mwenda-49b8bb161/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: fredricl Mwenda(https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredrick-mwenda-49b8bb161/)](https://www.linkedin.com/in/fredrick-mwenda-49b8bb161/)
 [![GitHub Fredrickmwenda](https://img.shields.io/github/followers/fredrickmwenda?label=follow&style=social)](https://github.com/fredrickmwenda)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://unruffled-franklin-da2a67.netlify.app/)
 
