@@ -57,8 +57,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fredrickmwenda&repo=Bomax-Wallet&theme=light" />
 
 </a>
-<a href="https://github.com/fredrickmwenda/Bomax-Wallet">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fredrickmwenda&repo=VelocityX&theme=light" />
+<a href="https://github.com/fredrickmwenda/Instagram-Bot">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fredrickmwenda&repo=Instagram-BotX&theme=light" />
 </a>
 
 <div align="center">
