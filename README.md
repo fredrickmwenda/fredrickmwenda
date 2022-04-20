@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/fredrick-mwenda-49b8bb161">
   <img align="left" alt="Mwenda's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/fredrickmwenda">
   <img align="left" alt="Mwenda's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/imthepk">
