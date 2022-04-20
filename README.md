@@ -34,7 +34,7 @@
 - ⚡ Fun fact: I have always dreamed working for google.
 
 [![Twitter: Basamiy](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/BaSamiy)
-[![Linkedin: fredricl Mwenda(https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: fredricl Mwenda(https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredrick-mwenda-49b8bb161/)](https://www.linkedin.com/in/imthepk/)
 [![GitHub Fredrickmwenda](https://img.shields.io/github/followers/fredrickmwenda?label=follow&style=social)](https://github.com/fredrickmwenda)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://unruffled-franklin-da2a67.netlify.app/)
 
@@ -48,17 +48,17 @@
  
 
 <a href="https://github.com/fredrickmwenda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredrickmwenda&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/fredrickmwenda">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Mwenda's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=fredrickmwenda&show_icons=true&theme=light&line_height=27" alt="Mwenda's github stats"/>
 </a>
 <a href="https://github.com/fredrickmwenda/Bomax-Wallet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fredrickmwenda&repo=Bomax-Wallet&theme=light" />
 
 </a>
 <a href="https://github.com/fredrickmwenda/Bomax-Wallet">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fredrickmwenda&repo=VelocityX&theme=light" />
 </a>
 
 <div align="center">
