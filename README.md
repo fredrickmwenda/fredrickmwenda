@@ -26,7 +26,7 @@
 <br/>
 
 
-- 🔭 I’m currently working as a Freelancer.
+- 🔭 I’m currently working as a Backend Developer.
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m working as a an android & Backend Developer 
 - 💬 Ask me about Flutter, Django  or any tech-related stuff.
