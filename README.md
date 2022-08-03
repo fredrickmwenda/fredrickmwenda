@@ -43,7 +43,7 @@
  
 
 <a href="https://github.com/fredrickmwenda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredrickmwenda&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredrickmwenda&theme=light" />
 </a>
 <a href="https://github.com/fredrickmwenda">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fredrickmwenda&show_icons=true&theme=light&line_height=27&count_private=true" alt="Mwenda's github stats"/>
