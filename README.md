@@ -1,4 +1,4 @@
-![image](https://github.com/fredrickmwenda/fredrickmwenda/assets/36224929/d1e099aa-4b03-4092-888e-6b87cae07918)## Hello, I'm [Fredrick Mwenda!](https://unruffled-franklin-da2a67.netlify.app) 👋
+## Hello, I'm [Fredrick Mwenda!](https://unruffled-franklin-da2a67.netlify.app) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="mwenda" /> </p>
 
