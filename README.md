@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working as a Fullstack Developer.
 - 🌱 I’m currently learning more about BlockChain.
-- 💬 Ask me about Flutter, Django  or any tech-related stuff.
+- 💬 Ask me about React, Django  or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @Basamiy](https://twitter.com/BaSamiy) , [Youtube - @progressivedeveloper](https://youtube.com/progressivedeveloper)
 - ⚡ Fun fact: I have always dreamed working for google.
 
